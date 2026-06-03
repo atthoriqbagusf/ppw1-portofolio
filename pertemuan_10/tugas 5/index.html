@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Kalkulator Sederhana</title>
+</head>
+<body>
+<h2>Kalkulator Sederhana</h2>
+<script>
+    let angka1 = parseFloat(prompt("Masukkan angka pertama"));
+    let angka2 = parseFloat(prompt("Masukkan angka kedua"));
+    let operator = prompt("Masukkan operator (+, -, *, /)");
+    let hasil;
+    if (operator == "+") {
+        hasil = angka1 + angka2;
+    }
+    else if (operator == "-") {
+        hasil = angka1 - angka2;
+    }
+    else if (operator == "*") {
+        hasil = angka1 * angka2;
+    }
+    else if (operator == "/") {
+        hasil = angka1 / angka2;
+    }
+    else {
+        hasil = "Operator tidak dikenali";
+    }
+    document.write("<h3>Hasil: " + hasil + "</h3>");
+</script>
+</body>
+</html>
