@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Tugas 2 - Form</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+
+<div class="container mt-5">
+  <h3>Form Pendaftaran Mahasiswa</h3>
+
+  <!-- Alert -->
+  <div id="alertSuccess" class="alert alert-success alert-dismissible fade show d-none">
+    Data berhasil disimpan!
+    <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+  </div>
+
+  <form>
+
+    <div class="row">
+      <div class="col-md-6 mb-3">
+        <label>Nama Lengkap</label>
+        <input type="text" class="form-control is-valid">
+      </div>
+
+      <div class="col-md-6 mb-3">
+        <label>NIM</label>
+        <input type="text" class="form-control is-invalid">
+      </div>
+    </div>
+
+    <div class="mb-3">
+      <label>Email</label>
+      <input type="email" class="form-control">
+    </div>
+
+    <div class="mb-3">
+      <label>Program Studi</label>
+      <select class="form-select">
+        <option>Informatika</option>
+        <option>Sistem Informasi</option>
+      </select>
+    </div>
+
+    <div class="mb-3">
+      <label>Semester</label>
+      <select class="form-select">
+        <option>1</option>
+        <option>2</option>
+        <option>3</option>
+      </select>
+    </div>
+
+    <div class="mb-3">
+      <label>Alamat</label>
+      <textarea class="form-control"></textarea>
+    </div>
+
+    <div class="mb-3">
+      <label>Foto Profil</label>
+      <input type="file" class="form-control">
+    </div>
+
+    <div class="d-flex gap-2">
+      <button type="button" class="btn btn-success" onclick="showAlert()">Simpan</button>
+      <button type="reset" class="btn btn-secondary">Reset</button>
+    </div>
+
+  </form>
+</div>
+
+<script>
+function showAlert() {
+  document.getElementById('alertSuccess').classList.remove('d-none');
+}
+</script>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
