@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Profil Diri</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 400px;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+        }
+        th {
+            background-color: lightgray;
+        }
+    </style>
+</head>
+<body>
+<?php
+$nama = "Atthoriq Bagus Fadillah";
+$nim = "72361298";
+$prodi = "Teknologi Rekayasa Perangkat Lunak";
+$asalKota = "Karanganyar";
+?>
+<h2>Profil Diri</h2>
+<table>
+    <tr>
+        <th>Data</th>
+        <th>Keterangan</th>
+    </tr>
+    <tr>
+        <td>Nama</td>
+        <td><?php echo $nama; ?></td>
+    </tr>
+    <tr>
+        <td>NIM</td>
+        <td><?php echo $nim; ?></td>
+    </tr>
+    <tr>
+        <td>Prodi</td>
+        <td><?php echo $prodi; ?></td>
+    </tr>
+    <tr>
+        <td>Asal Kota</td>
+        <td><?php echo $asalKota; ?></td>
+    </tr>
+</table>
+</body>
+</html>
