@@ -49,33 +49,57 @@ HTML • CSS • JavaScript • Bootstrap • PHP • MySQL • Git • GitHub
 ## Screenshot
 
 Screenshot Hasil Praktikum
-Bab 1
-
 Bab 2
-
+(pertemuan_2\latihan1.png)
+(pertemuan_2\latihan2.png)
+(pertemuan_2\latihan3.png)
+(pertemuan_2\latihan4.png)
+(pertemuan_2\latihan5.png)
+(pertemuan_2\latihan6.png)
+(pertemuan_2\latihan7.png)
+(pertemuan_2\latihan8.png)
 Bab 3
-
+(pertemuan_3\link.png)
+(pertemuan_3\table1.png)
+(pertemuan_3\table2.png)
+(pertemuan_3\table3.png)
 Bab 4
-
+(pertemuan_4\1.png)
+(pertemuan_4\2.png)
+(pertemuan_4\3.png)
+(pertemuan_4\4.png)
+(pertemuan_4\5.png)
+(pertemuan_4\6.png)
+(pertemuan_4\7.png)
 Bab 5
-
+(pertemuan_5\index.png)
 Bab 6
-
+(pertemuan_6\6.png)
 Bab 7
-
+(pertemuan_7\tugas 1.png)
+(pertemuan_7\tugas 2.png)
+(pertemuan_7\tugas 3.png)
 Bab 8
-
+(pertemuan_8\tugas 1.png)
+(pertemuan_8\tugas 2.png)
+(pertemuan_8\tugas 3.png)
 Bab 9
-
+(pertemuan_9\1.png)
 Bab 10
-
+(pertemuan_10\Tugas 1\1.png)
+(pertemuan_10\tugas 2\2.png)
+(pertemuan_10\tugas 3\3.png)
+(pertemuan_10\tugas 4\4.png)
+(pertemuan_10\tugas 5\5.png)
 Bab 11
-
+(pertemuan_11\1.png)
 Bab 12
-
+(pertemuan_12\IMT.png)
+(pertemuan_12\profil.png)
+(pertemuan_12\sisahari.png)
 Bab 13
-
-Bab 14
+(pertemuan_13\konversi.png)
+(pertemuan_13\pendataan.png)
 
 ---
 
