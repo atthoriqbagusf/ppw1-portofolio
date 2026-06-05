@@ -76,21 +76,21 @@ Screenshot Hasil Praktikum
 ## Bab 6
 ![](pertemuan_6/6.png)
 ## Bab 7
-![](pertemuan_7/tugas 1.png)
-![](pertemuan_7/tugas 2.png)
-![](pertemuan_7/tugas 3.png)
+![](pertemuan_7/tugas1.png)
+![](pertemuan_7/tugas2.png)
+![](pertemuan_7/tugas3.png)
 ## Bab 8
-![](pertemuan_8/tugas 1.png)
-![](pertemuan_8/tugas 2.png)
-![](pertemuan_8/tugas 3.png)
+![](pertemuan_8/tugas1.png)
+![](pertemuan_8/tugas2.png)
+![](pertemuan_8/tugas3.png)
 ## Bab 9
 ![](pertemuan_9/1.png)
 ## Bab 10
-![](pertemuan_10/Tugas 1/1.png)
-![](pertemuan_10/tugas 2/2.png)
-![](pertemuan_10/tugas 3/3.png)
-![](pertemuan_10/tugas 4/4.png)
-![](pertemuan_10/tugas 5/5.png)
+![](pertemuan_10/Tugas1/1.png)
+![](pertemuan_10/tugas2/2.png)
+![](pertemuan_10/tugas3/3.png)
+![](pertemuan_10/tugas4/4.png)
+![](pertemuan_10/tugas5/5.png)
 ## Bab 11
 ![](pertemuan_11/1.png)
 ## Bab 12
